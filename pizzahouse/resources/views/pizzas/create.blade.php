@@ -28,6 +28,7 @@
       <input type="checkbox" name="toppings[]" value="garlic">Garlic<br />
       <input type="checkbox" name="toppings[]" value="olives">Olives<br />
       <input type="checkbox" name="toppings[]" value="onion">Onion<br />
+      <input type="checkbox" name="toppings[]" value="extra Cheese">Extra Cheese<br />
     </fieldset>
     <input type="submit" value="Order Pizza">
   </form>
